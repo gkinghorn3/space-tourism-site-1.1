@@ -1,0 +1,7 @@
+.color-container {
+    justify-content: space-between;
+}
+
+.color-block {
+    flex-basis: 33.33%;
+}
